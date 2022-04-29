@@ -52,6 +52,8 @@ a:link {
   margin: 60px;
   border: 1px solid rgb(125, 168, 182);
   border-radius: 10px;
+  background: rgb(49, 35, 35);
+  opacity: .75;
 }
 
 .sp-container {
