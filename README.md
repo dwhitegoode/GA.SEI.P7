@@ -4,7 +4,7 @@ A website that serves random pictures from the official Astronomy Picture of the
 
 ____
 #### Preview
-<img src='./src/assets/p7preview.png'>
+<img src='./src/assets/p7p.png'>
 
 ### Built With
 * [ReactJS](https://reactjs.org/) - Framework

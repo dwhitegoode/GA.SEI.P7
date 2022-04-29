@@ -33,8 +33,8 @@ h1 {
 
 .picture-button {
   width: fit-content;
-  background-color: grey;
-  color: white;
+  background: linear-gradient(to right, #6699ff 0%, #ff00ff 100%);
+  color: rgb(138, 81, 183);
   border-radius: 10px;
 }
 
@@ -50,7 +50,7 @@ a:link {
   height: fit-content;
   padding: 35px;
   margin: 60px;
-  border: 1px solid rgb(125, 168, 182);
+  border: 1px solid rgb(136, 31, 132);
   border-radius: 10px;
   background: rgb(49, 35, 35);
   opacity: .75;
